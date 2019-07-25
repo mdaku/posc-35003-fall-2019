@@ -1,43 +1,28 @@
-# POSC 39003 - Quantitative Methods for Political Science
+# POSC 35003 - Introduction to African Politics
 Prof. Mark Daku <br /> [mark.daku@tcu.edu](mailto:mark.daku@tcu.edu)
 
 ## Course Information
 
 <table>
-  <tr><td>Course time:</td> <td>M/W 15:30 - 17:00 </td><td>Course location:</td><td>SCHAR 2008</td></tr>
+  <tr><td>Course time:</td> <td>M/W 14:00 - 15:20 </td><td>Course location:</td><td>SCHAR 2008</td></tr>
   <tr><td>Office</td><td>Scharbauer Hall 2012A </td><td>Office Hours:</td><td>Wednesdays 11:00 - 14:00</td></tr>
   <tr><td colspan=2>&nbsp;</td><td colspan=2><a href="http://www.calendly.com/markdaku" target="_BLANK">Sign up for office hours here</a></td></tr>
 </table>
 
 ## Course Description
 
-This course introduces the student to regression analysis for social science inquiry. Students will learn in depth about linear regression, multiple regression, logistic regression, as well as how to work with time-series and panel data. By the end of the course, the student will be able to confidently conduct basic regression analyses on social science data. We will be working primarily in R, but a mastery of R is not expected or required.
+This course offers a broad overview of the regional trajectory of politics in Africa. The purpose of this course is not to provide you with detailed accounts of particular countries in Africa, but rather to provide you with the tools and analytical frameworks to understand political trends on the continent. The course is divided into three parts.  In the first part we will examine the role of pre-colonial and colonial legacies on shaping contemporary African politics and the particular kind of rule that we observe in the region. In the second part, we examine the challenges to democratization, including the persistence of authoritarian rule and the challenges of state building. The third section turns to examining contemporary challenges and opportunities of ‘development’ on the continent, with attention paid to particular country cases and issues.  
+
+**This course is reading and writing intensive, and students should be prepared for this. I will ask a lot from you, and I expect a lot from you.**
 
 ## Pre-requisites
 
-It is assumed that the student has a basic knowledge of probability, algebra, and inferential statistics, and a cursory knowledge of regression analysis (POSC 20093 or an equivalent should suffice).  
+The course has no prerequisites, but a prior course in comparative politics would be helpful.
 
-It is also assumed that the student has a basic understanding of R, Stata or SPSS.  Work in the course will be demonstrated using R, but the student may use the software of their choice to complete their final assignment.
-
-This is NOT an easy course. You have been warned. 
 
 ## Required Material
-
-* Stock, James H. & Mark W. Watson. 2015. _Introduction to Econometrics: updated third edition._ Pearson Education Limited. Referred to below as S&W.
-* Hanck, Christoph, Martin Arnold, Alexander Gerber & Martin Schmelzer. 2018. _Introduction to Econometrics Using R._ Available for free online <a href="https://bookdown.org/machar1991/ITER/" target="_BLANK">here</a>. Referred to below as HAGS.
+* Thomson, Alex. An introduction to African Politics, 4th ed.
  
-## Recommended Material
-
-If you are looking to improve your statistical software game, the following resources may help:
-* Daniell Navarro. 2011. _Learning Statistics with R._ Available freely online <a href="https://learningstatisticswithr.com/" target="_BLANK">here</a>
-* Lawrence Hamilton. 2013. _Statistics with Stata: Version 12, Eighth Edition._ Cengage.
-
-If you are looking to solidify your understanding of statistics or some of the concepts:
-* Charles Wheelan. 2014. _Naked Statistics: Stripping the Dread from the Data._
-* Joseph K. Blitztein & Jessica Hwang. 2019. _Introduction to Probability, 2nd Edition_. Taylor & Francis Group.
-* Shin Takahashi. 2008. _The Manga Guide to Statistics._
-* Shin Takahashi. 2016. _The Manga Guide to Regression Analysis._
-
 ## Course Policies
 Students are expected to attend class on a regular basis, in a timely manner, and without disruption to other students. Students should be prepared to participate in detailed discussion of the required reading or class activity for that class date.
 
@@ -72,27 +57,31 @@ Texas Christian University complies with the Americans with Disabilities Act and
 
 | Assignment | % of Course Grade | 
 | ---------- | ----------------- |
-| Labs (x8)  | 40% 		 |
-| Mid-Term Exam  | 20% 		 |
-| Final Project  | 35% 		 |
-| Participation & Preparedness  | 5% |
+| Map Quiz  | 10% 		 |
+| Mid-Term Exam  | 20% 		 | 
+| Final Exam | 30% 		 |
+| Wikipedia Assignment  | 30% 	 |
+| Participation & Preparedness  | 10% |
 
-### Labs (40%) 
-There are 8 labs, worth 5% of your final grade each.  Late labs will not be accepted. You cannot make up labs, or do extra labs.
+### Map Quiz (10%)
+You are required to know the names, correct spellings, and locations of all of the countries on the African continent.
  
 ### Mid-Term Exam (20%) 
-There is one in-class exam. There will be a review the class before.
+There is a midterm in-class exam worth 30% of your final grade. There will be a review the class before.
 
-### Research Paper (35%)
-You are required to produce a final research paper on a political science question of your choice.  Your research paper must perform at least one regression analysis, and must be a proper research paper.  With tables, this paper should be between 15-20 double spaced pages. A one-page proposal that articulates your data source, research question, and basic literature is due on October 16th. Students will be required to give a 7 minute presentation on their research on December 11th, and the final paper itself is due on December 16th.
+### Mid-Term Exam (30%) 
+There is an in-class final exam worth 30% of your final grade. There will be a review the class before.
+
+### Wikipedia Assignment (30%)
+Throughout the term, you will be building a unique contribution to wikipedia on a topic that is undercovered or not reported on at all.  More details to come in class. The final contribution is due on December 16th.
+
 
 | Component | Grade |
 | --------- | ----- |
-| Proposal  |   2.5%  |
-| Presentation | 2.5% |
+| Proposal  |   10%  |
 | Final Paper | 30% | 
 
-### Participation and Preparedness (5%)
+### Participation and Preparedness (10%)
 The success of this class is largely dependent on your engaged and lively participation in it. Please come to class prepared: read the assigned readings, take careful notes, and be ready for class discussions. This grade is determined by a combination of attendance, my assessment of your engagement in class, and random pop-quizzes. 
 
 **Attendance & Participation Expectations:** 
@@ -138,37 +127,48 @@ All readings are to be done before the lecture.  All lab assignments must be com
 
 | Week | Date | Topic | Reading/Assignment |
 | ---- | ---- | ----- | ------------------ |
-| 1  | 8/26  | Syllabus & Course Expectations | Introduction to R (DataCamp) <br /> HAGS: Chapter 1 <br /><br /> _Recommended_: <br /> Portwood-Stacer, Laura. How to Email Your Professor |
-|    | 8/28  | Review of Probability | S & W: Chapter 2 <br /> HAGS: Chapter 2 | 
+| 1  | 8/26  | Syllabus & Course Expectations | Green, A. H. How to Read Political Science: A Guide in Four Steps <BR />
+Burke, Tim. How to Read in College
+<br /><br /> _Recommended_: <br /> Portwood-Stacer, Laura. How to Email Your Professor |
+|    | 8/28  | Africa: Perception and Reality | Thomson: Chapter 1. Introduction. State, civil society and external interests (6pp) <br />
+[Robert D. Kaplan, (1994); “The Coming Anarchy,” in The Atlantic Monthly. 273,2 February](http://www.theatlantic.com/magazine/archive/1994/02/the-coming-anarchy/304670/) <br />
+[Richard Dowden (2013); “Africa’s Image And Reality: Wealth And Poverty Sit Side-By-Side,” African Arguments](https://africanarguments.org/2013/01/08/africas-image-and-reality-wealth-and-poverty-sit-side-by-side-by-richard-dowden/) <br />
+[Morten Jerven (2012); “Poor Numbers: How We Are Misled By African Development Statistics And What To Do About It,” African Arguments](http://africanarguments.org/2012/11/20/poor-numbers-how-we-are-misled-by-african-development-statistics-and-what-to-do-about-it-%E2%80%93-by-morten-jerven/) <br />
+[Keith Somerville (2013); “Framing News in Africa – How Journalists Approach Stories And Reinforce Stereotypes,” African Arguments](http://africanarguments.org/2013/02/26/framing-news-in-africa-%E2%80%93-how-journalists-approach-stories-and-reinforce-stereotypes-%E2%80%93-by-keith-somerville/) <br />
+[Binyavanga Wainaina (2005); “How to Write About Africa,” Granata.](http://www.granta.com/Archive/92/How-to-Write-about-Africa/Page-1)<br />
+[Binyavanga Wainaina (2012); “How not to write about Africa in 2012, a beginners guide,” The Guardian.](http://www.guardian.co.uk/commentisfree/2012/jun/03/how-not-to-write-about-africa)<br />
+[Laura Seay (2012); “How not to write about Africa,” Foreign Policy](http://www.foreignpolicy.com/articles/2012/04/25/how_not_to_write_about_africa) <br />
+[Maria Hengeveld (2012); “How to write about children in Africa,” Africa Is A Country](http://africasacountry.com/2012/11/08/how-to-write-about-children-in-africa/)<br />
+[Anonymous (2012); “Satirical posts about how not to write about Africa (and other places and things),” Stuff Ex-Pat Aid  Workers Like](http://stuffexpataidworkerslike.com/2012/11/26/184-satirical-posts-about-how-not-to-write-about-africa-and-other-places-and-things/)   |
 | 2  | 9/02  | No Class (Labour Day) | 		      |
-|    | 9/04  | Review of Statistics  | S & W: Chapter 3 <br /> HAGS: Chapter 3 |
-| 3  | 9/09  | Linear Regression with One Regressor |  S & W: Chapter 4  <br /> Lab 1 Due |
-|    | 9/11  | | HAGS: Chapter 4| 
-| 4  | 9/16  | One Regressor: Hypothesis Tests & Confidence Intervals | S & W: Chapter 5 <br /> Lab 2 Due |
-|    | 9/18  | | HAGS: Chapter 5 |		
-| 5  | 9/23  | Linear Regression with Multiple Regressors | S & W: Chapter 6 <br /> Lab 3 Due |
-|    | 9/25  | | HAGS: Chapter 6 | 	
-| 6  | 9/30  | Multiple Regressors: Hypothesis Tests & Confidence Intervals | S & W: Chapter 7 <br /> Lab 4 Due |
-|    | 10/02 | | HAGS: Chapter 7|		
-| 7  | 10/07 | Non-Linear Regression Functions | S & W: Chapter 8 <br /> Lab 5 Due | 
-|    | 10/09 | | HAGS: Chapter 8 | 		
-| 8  | 10/14 | NO CLASS	| |
-|    | 10/16 | NO CLASS 	| Final Project Proposal Due |
+|    | 9/04  | Politics in pre-colonial Africa  |  |
+| 3  | 9/09  | The Advent of Colonialism |   |
+|    | 9/11  | The Advent of Colonialism II | | 
+| 4  | 9/16  | Colonialism & Its Legacies | |
+|    | 9/18  | Colonialism & Its Legacies II | Map Quiz | 
+| 5  | 9/23  | Colonialism: Mamdani & the Bifurcated State | |
+|    | 9/25  | African Political Ideologies | | 	
+| 6  | 9/30  | Ethnicity & Religion | |
+|    | 10/02 | Class & African Politics | |		
+| 7  | 10/07 | Political Legitimacy | | 
+|    | 10/09 | Guest Lecture (TBC)|| 		
+| 8  | 10/14 | No Class: Study Session	| |
+|    | 10/16 | No Class: Study Session 	| |
 | 9  | 10/21 | Mid-term Test Review | |
 |    | 10/23 | Mid-term Test | |
-| 10 | 10/28 | Regression with Panel Data | S & W: Chapter 10 |
-|    | 10/30 | | HAGS: Chapter 10 |		
-| 11 | 11/04 | Regression with a Binary Dependent Variable | S & W: Chapter 11 <br /> Lab 6 Due |
-|    | 11/06 | | | 		
-| 12 | 11/11 | NO CLASS	(Final Project Work Time) |  |
-|    | 11/13 | NO CLASS	(Final Project Work Time) |  |
-| 13 | 11/18 | Time Series Regression and Forecasting | S & W: Chapter 14 <br /> Lab 7 Due |
-|    | 11/20 | | HAGS: Chapter 14 |		
+| 10 | 10/28 | Military Intervention| |
+|    | 10/30 | Sovereignty | |		
+| 11 | 11/04 | Sovereignty II | |
+|    | 11/06 | Authority | | 		
+| 12 | 11/11 | NO CLASS	(Final Paper Work Time) |  |
+|    | 11/13 | NO CLASS	(Final Paper Work Time) |  |
+| 13 | 11/18 | Democracy | |
+|    | 11/20 | Economic Crisis & the Politics of Reform| |		
 | 14 | 11/25 | NO CLASS (Thanksgiving) | |
 |    | 11/27 | NO CLASS (Thanksgiving) | |	
-| 15 | 12/02 | Experiments & Quasi-Experiments	| S & W: Chapter 13 <br/>Lab 8 Due |
-|    | 12/04 | | HAGS: Chapter 13 |
-| 16 | 12/09 | Assessing Studies Based on Multiple Regression | S & W: Chapter 9 <br /> HAGS: Chapter 9 |
-|    | 12/11 | Presentations | | 
-| 17 | 12/16 | Final Project Due | |			
+| 15 | 12/02 | Informal Politics | |
+|    | 12/04 | The Politics of Aid| |
+| 16 | 12/09 | Exam Review | |
+|    | 12/11 | Final Exam | | 
+| 17 | 12/16 | Wikipedia Assignment Due | |			
 	
