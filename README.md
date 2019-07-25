@@ -124,33 +124,36 @@ All readings are to be done before the lecture.  All lab assignments must be com
 | 1  | 8/26  | Syllabus & Course Expectations | [Green, A. H. How to Read Political Science: A Guide in Four Steps](http://www.ameliahoovergreen.com/uploads/9/3/0/9/93091546/howtoread.pdf)<br/>[Burke, Tim. How to Read in College](http://blogs.swarthmore.edu/burke/permanent-features-advice-on-academia/how-to-read-in-college/)<br /><br /> _Recommended_: <br /> [Portwood-Stacer, Laura. How to Email Your Professor](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087) |
 |    | 8/28  | Africa: Perception and Reality | Thomson: Chapter 1. Introduction. State, civil society and external interests (6pp) <br />[Robert D. Kaplan, (1994); “The Coming Anarchy,” in The Atlantic Monthly. 273,2 February](http://www.theatlantic.com/magazine/archive/1994/02/the-coming-anarchy/304670/)<br />[Richard Dowden (2013); “Africa’s Image And Reality: Wealth And Poverty Sit Side-By-Side,” African Arguments](https://africanarguments.org/2013/01/08/africas-image-and-reality-wealth-and-poverty-sit-side-by-side-by-richard-dowden/)<br />[Morten Jerven (2012); “Poor Numbers: How We Are Misled By African Development Statistics And What To Do About It,” African Arguments](http://africanarguments.org/2012/11/20/poor-numbers-how-we-are-misled-by-african-development-statistics-and-what-to-do-about-it-%E2%80%93-by-morten-jerven/) <br />[Keith Somerville (2013); “Framing News in Africa – How Journalists Approach Stories And Reinforce Stereotypes,” African Arguments](http://africanarguments.org/2013/02/26/framing-news-in-africa-%E2%80%93-how-journalists-approach-stories-and-reinforce-stereotypes-%E2%80%93-by-keith-somerville/)<br />[Binyavanga Wainaina (2005); “How to Write About Africa,” Granata.](http://www.granta.com/Archive/92/How-to-Write-about-Africa/Page-1)<br />[Binyavanga Wainaina (2012); “How not to write about Africa in 2012, a beginners guide,” The Guardian.](http://www.guardian.co.uk/commentisfree/2012/jun/03/how-not-to-write-about-africa)<br />[Laura Seay (2012); “How not to write about Africa,” Foreign Policy](http://www.foreignpolicy.com/articles/2012/04/25/how_not_to_write_about_africa)<br />[Maria Hengeveld (2012); “How to write about children in Africa,” Africa Is A Country](http://africasacountry.com/2012/11/08/how-to-write-about-children-in-africa/)<br />[Anonymous (2012); “Satirical posts about how not to write about Africa (and other places and things),” Stuff Ex-Pat Aid  Workers Like](http://stuffexpataidworkerslike.com/2012/11/26/184-satirical-posts-about-how-not-to-write-about-africa-and-other-places-and-things/)   |
 | 2  | 9/02  | No Class (Labour Day) | 		      |
-|    | 9/04  | Politics in pre-colonial Africa  |  |
-| 3  | 9/09  | The Advent of Colonialism |   |
-|    | 9/11  | The Advent of Colonialism II | | 
-| 4  | 9/16  | Colonialism & Its Legacies | |
-|    | 9/18  | Colonialism & Its Legacies II | Map Quiz | 
-| 5  | 9/23  | Colonialism: Mamdani & the Bifurcated State | |
-|    | 9/25  | African Political Ideologies | | 	
-| 6  | 9/30  | Ethnicity & Religion | |
-|    | 10/02 | Class & African Politics | |		
-| 7  | 10/07 | Political Legitimacy | | 
+|    | 9/04  | Politics in pre-colonial Africa  | Thomson: Chapter 2. History: Africa’s pre-colonial and colonial inheritance (23pp) |
+| 3  | 9/09  | The Advent of Colonialism |  Jeffrey Herbst, (2000); States and Power in Africa; Princeton: Princeton University Press, pp.35‐57.<br/><br/>Jared Diamond, (1999), Guns, Germs and Steel, New York: WW. Norton and Co., Chapter 19, pp.376‐401.  |
+|    | 9/11  | The Advent of Colonialism II | Crawford Young (1998). The African Colonial State and its Political Legacy,” in Donald Rothchild and Naomi Chazan, eds., The Precarious Balance: State and Society in Africa; Boulder: Westview Press; pp. 40‐60. | 
+| 4  | 9/16  | Colonialism & Its Legacies | Crawford Young. 1994. The African Colonial State in Comparative Perspective; New Haven: Yale University Press; pp. 77-140.|
+|    | 9/18  | Colonialism & Its Legacies II | Crawford Young. 1994. The African Colonial State in Comparative Perspective; New Haven: Yale University Press; pp. 282‐292, notes 347‐348. <br/>**Map Quiz** | 
+| 5  | 9/23  | Colonialism: Mamdani & the Bifurcated State | Mahmood Mamdani (1996) Citizen & Subject: Contemporary Africa and the Legacy of Late Colonialism. Princeton University Press. Chapters 1 & 2. 3-62<br/>Sara Berry. (1992). Hegemony on a Shoestring: Indirect Rule and Access to Agricultural Labor. Africa, 62 (3) 327-355.<br/> |
+|    | 9/25  | African Political Ideologies |Thomson: Chapter 3. Ideology: nationalism, socialism, populism and state capitalism (28pp) | 	
+| 6  | 9/30  | Ethnicity & Religion | Thomson: Chapter 4. Ethnicity and religion: ‘tribes’, gods and political identity (25pp)|
+|    | 10/02 | Class & African Politics |Thomson: Chapter 5. Social class: the search for class politics in Africa (24pp) |		
+| 7  | 10/07 | Political Legitimacy | Thomson: Chapter 6. Legitimacy: neo-patrimonialism, personal rule and the centralization of the African state (22pp)| 
 |    | 10/09 | Guest Lecture (TBC)|| 		
 | 8  | 10/14 | No Class: Study Session	| |
 |    | 10/16 | No Class: Study Session 	| |
 | 9  | 10/21 | Mid-term Test Review | |
 |    | 10/23 | Mid-term Test | |
-| 10 | 10/28 | Military Intervention| |
-|    | 10/30 | Sovereignty | |		
-| 11 | 11/04 | Sovereignty II | |
-|    | 11/06 | Authority | | 		
-| 12 | 11/11 | NO CLASS	(Final Paper Work Time) |  |
-|    | 11/13 | NO CLASS	(Final Paper Work Time) |  |
-| 13 | 11/18 | Democracy | |
-|    | 11/20 | Economic Crisis & the Politics of Reform| |		
+| 10 | 10/28 | Military Intervention| Thomson: Chapter 7. Coercion: military intervention in African politics (21pp)<br/>
+Ali Mazrui. (1977); “Soldiers as Traditionalizers: Military Rule and the Reafricanization of Africa.” Journal of Asian and African Studies 12(1‐4): 236‐58.|
+|    | 10/30 | Sovereignty | Thomson: Chapter 8. Sovereignty I: external influences on African politics (21pp) |		
+| 11 | 11/04 | Sovereignty II | Thomson: Chapter 9. Sovereignty II: neo-colonialism, structural adjustment and Africa’s political economy (30pp)|
+|    | 11/06 | Authority | Thomson: Chapter 10. Authority: the crises of accumulation, governance and state collapse (27pp)| 
+| 12 | 11/11 | NO CLASS	(Wikipedia Project Research) |  |
+|    | 11/13 | NO CLASS	(Wikipedia Project Research) |  |
+| 13 | 11/18 | Democracy |Thomson: Chapter 11. Democracy: re-legitimising the African state? (32pp)<br/>Nicolas van de Walle (2002); “Africa’s Range of Regimes,” in Journal of Democracy, vol. 13, no.2; pp.66‐80.<br/>Roger Southall, (2000); “The State of Democracy in South Africa,” in Journal of Commonwealth and Comparative Studies, 38(3); pp. 147‐170.|
+|    | 11/20 | Economic Crisis & the Politics of Reform| Nicolas Van de Walle, (2001); African Economies and the Politics of Permanent Crisis, 1979‐1999; Cambridge University Press. pp. 20‐63.<br/> 
+Naomi Chazan et.al. (1999); Politics and Society in Contemporary Africa: Boulder: Lynn Rienner; pp. 325 ‐357. |		
 | 14 | 11/25 | NO CLASS (Thanksgiving) | |
 |    | 11/27 | NO CLASS (Thanksgiving) | |	
-| 15 | 12/02 | Informal Politics | |
-|    | 12/04 | The Politics of Aid| |
+| 15 | 12/02 | Informal Politics | Khalid M. Medani, (Summer 2002); “Financing Terrorism or Survival: Informal Finance, State Collapse and the US War on Terror,” Middle East Report, 223, Summer, pp. 2‐9. <br/>
+Joe Lugalla. (1997); “Development, Change, and Poverty in the Informal Sector During the Era of Structural Adjustment.” Canadian Journal of African Studies 31(3): 424‐51.|
+|    | 12/04 | The Politics of Aid| Thandika Mkandawire. (2001); “Thinking about Development States in Africa,” Cambridge Journal of Economics, 25(3), 289 – 313. <br />Easterly, William. 2009. “Review of Dambisa Moyo’s book Dead Aid.”<br />Sachs, Jeffrey. 2009. “Aid Ironies,” Huffington Post, May 24th, 2009.<br/>Easterly, William. 2009. “Sachs Ironies: Why Critics are Better for Foreign Aid than Apologists,” Huffington Post, May 25, 2009.<br/>Moyo, Dambisa. 2009. “Aid Ironies: A Response to Jeffrey Sachs,” Huffington Post, May 26th, 2009.  |
 | 16 | 12/09 | Exam Review | |
 |    | 12/11 | Final Exam | | 
 | 17 | 12/16 | Wikipedia Assignment Due | |			
