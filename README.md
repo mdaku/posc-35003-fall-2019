@@ -75,12 +75,6 @@ There is an in-class final exam worth 30% of your final grade. There will be a r
 ### Wikipedia Assignment (30%)
 Throughout the term, you will be building a unique contribution to wikipedia on a topic that is undercovered or not reported on at all.  More details to come in class. The final contribution is due on December 16th.
 
-
-| Component | Grade |
-| --------- | ----- |
-| Proposal  |   10%  |
-| Final Paper | 30% | 
-
 ### Participation and Preparedness (10%)
 The success of this class is largely dependent on your engaged and lively participation in it. Please come to class prepared: read the assigned readings, take careful notes, and be ready for class discussions. This grade is determined by a combination of attendance, my assessment of your engagement in class, and random pop-quizzes. 
 
@@ -130,11 +124,7 @@ All readings are to be done before the lecture.  All lab assignments must be com
 | 1  | 8/26  | Syllabus & Course Expectations | Green, A. H. How to Read Political Science: A Guide in Four Steps <BR />
 Burke, Tim. How to Read in College
 <br /><br /> _Recommended_: <br /> Portwood-Stacer, Laura. How to Email Your Professor |
-|    | 8/28  | Africa: Perception and Reality | Thomson: Chapter 1. Introduction. State, civil society and external interests (6pp) <br />
-[Robert D. Kaplan, (1994); “The Coming Anarchy,” in The Atlantic Monthly. 273,2 February](http://www.theatlantic.com/magazine/archive/1994/02/the-coming-anarchy/304670/) <br />
-[Richard Dowden (2013); “Africa’s Image And Reality: Wealth And Poverty Sit Side-By-Side,” African Arguments](https://africanarguments.org/2013/01/08/africas-image-and-reality-wealth-and-poverty-sit-side-by-side-by-richard-dowden/) <br />
-[Morten Jerven (2012); “Poor Numbers: How We Are Misled By African Development Statistics And What To Do About It,” African Arguments](http://africanarguments.org/2012/11/20/poor-numbers-how-we-are-misled-by-african-development-statistics-and-what-to-do-about-it-%E2%80%93-by-morten-jerven/) <br />
-[Keith Somerville (2013); “Framing News in Africa – How Journalists Approach Stories And Reinforce Stereotypes,” African Arguments](http://africanarguments.org/2013/02/26/framing-news-in-africa-%E2%80%93-how-journalists-approach-stories-and-reinforce-stereotypes-%E2%80%93-by-keith-somerville/) <br />
+|    | 8/28  | Africa: Perception and Reality | Thomson: Chapter 1. Introduction. State, civil society and external interests (6pp) <br />[Robert D. Kaplan, (1994); “The Coming Anarchy,” in The Atlantic Monthly. 273,2 February][http://www.theatlantic.com/magazine/archive/1994/02/the-coming-anarchy/304670/] <br />[Richard Dowden (2013); “Africa’s Image And Reality: Wealth And Poverty Sit Side-By-Side,” African Arguments][https://africanarguments.org/2013/01/08/africas-image-and-reality-wealth-and-poverty-sit-side-by-side-by-richard-dowden/]<br />[Morten Jerven (2012); “Poor Numbers: How We Are Misled By African Development Statistics And What To Do About It,” African Arguments](http://africanarguments.org/2012/11/20/poor-numbers-how-we-are-misled-by-african-development-statistics-and-what-to-do-about-it-%E2%80%93-by-morten-jerven/) <br />[Keith Somerville (2013); “Framing News in Africa – How Journalists Approach Stories And Reinforce Stereotypes,” African Arguments](http://africanarguments.org/2013/02/26/framing-news-in-africa-%E2%80%93-how-journalists-approach-stories-and-reinforce-stereotypes-%E2%80%93-by-keith-somerville/) <br />
 [Binyavanga Wainaina (2005); “How to Write About Africa,” Granata.](http://www.granta.com/Archive/92/How-to-Write-about-Africa/Page-1)<br />
 [Binyavanga Wainaina (2012); “How not to write about Africa in 2012, a beginners guide,” The Guardian.](http://www.guardian.co.uk/commentisfree/2012/jun/03/how-not-to-write-about-africa)<br />
 [Laura Seay (2012); “How not to write about Africa,” Foreign Policy](http://www.foreignpolicy.com/articles/2012/04/25/how_not_to_write_about_africa) <br />
