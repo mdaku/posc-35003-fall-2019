@@ -139,8 +139,7 @@ All readings are to be done before the lecture.  All lab assignments must be com
 |    | 10/16 | No Class: Study Session 	| |
 | 9  | 10/21 | Mid-term Test Review | |
 |    | 10/23 | Mid-term Test | |
-| 10 | 10/28 | Military Intervention| Thomson: Chapter 7. Coercion: military intervention in African politics (21pp)<br/>
-Ali Mazrui. (1977); “Soldiers as Traditionalizers: Military Rule and the Reafricanization of Africa.” Journal of Asian and African Studies 12(1‐4): 236‐58.|
+| 10 | 10/28 | Military Intervention| Thomson: Chapter 7. Coercion: military intervention in African politics (21pp)<br/>Ali Mazrui. (1977); “Soldiers as Traditionalizers: Military Rule and the Reafricanization of Africa.” Journal of Asian and African Studies 12(1‐4): 236‐58.|
 |    | 10/30 | Sovereignty | Thomson: Chapter 8. Sovereignty I: external influences on African politics (21pp) |		
 | 11 | 11/04 | Sovereignty II | Thomson: Chapter 9. Sovereignty II: neo-colonialism, structural adjustment and Africa’s political economy (30pp)|
 |    | 11/06 | Authority | Thomson: Chapter 10. Authority: the crises of accumulation, governance and state collapse (27pp)| 
@@ -151,8 +150,7 @@ Ali Mazrui. (1977); “Soldiers as Traditionalizers: Military Rule and the Reafr
 Naomi Chazan et.al. (1999); Politics and Society in Contemporary Africa: Boulder: Lynn Rienner; pp. 325 ‐357. |		
 | 14 | 11/25 | NO CLASS (Thanksgiving) | |
 |    | 11/27 | NO CLASS (Thanksgiving) | |	
-| 15 | 12/02 | Informal Politics | Khalid M. Medani, (Summer 2002); “Financing Terrorism or Survival: Informal Finance, State Collapse and the US War on Terror,” Middle East Report, 223, Summer, pp. 2‐9. <br/>
-Joe Lugalla. (1997); “Development, Change, and Poverty in the Informal Sector During the Era of Structural Adjustment.” Canadian Journal of African Studies 31(3): 424‐51.|
+| 15 | 12/02 | Informal Politics | Khalid M. Medani, (Summer 2002); “Financing Terrorism or Survival: Informal Finance, State Collapse and the US War on Terror,” Middle East Report, 223, Summer, pp. 2‐9.<br/>Joe Lugalla. (1997); “Development, Change, and Poverty in the Informal Sector During the Era of Structural Adjustment.” Canadian Journal of African Studies 31(3): 424‐51.|
 |    | 12/04 | The Politics of Aid| Thandika Mkandawire. (2001); “Thinking about Development States in Africa,” Cambridge Journal of Economics, 25(3), 289 – 313. <br />Easterly, William. 2009. “Review of Dambisa Moyo’s book Dead Aid.”<br />Sachs, Jeffrey. 2009. “Aid Ironies,” Huffington Post, May 24th, 2009.<br/>Easterly, William. 2009. “Sachs Ironies: Why Critics are Better for Foreign Aid than Apologists,” Huffington Post, May 25, 2009.<br/>Moyo, Dambisa. 2009. “Aid Ironies: A Response to Jeffrey Sachs,” Huffington Post, May 26th, 2009.  |
 | 16 | 12/09 | Exam Review | |
 |    | 12/11 | Final Exam | | 
