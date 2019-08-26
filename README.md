@@ -67,9 +67,9 @@ Texas Christian University complies with the Americans with Disabilities Act and
 You are required to know the names, correct spellings, and locations of all of the countries on the African continent.
  
 ### Mid-Term Exam (20%) 
-There is a midterm in-class exam worth 30% of your final grade. There will be a review the class before.
+There is a midterm in-class exam worth 20% of your final grade. There will be a review the class before.
 
-### Mid-Term Exam (30%) 
+### Final Exam (30%) 
 There is an in-class final exam worth 30% of your final grade. There will be a review the class before.
 
 ### Wikipedia Assignment (30%)
