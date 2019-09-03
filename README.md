@@ -139,13 +139,13 @@ All readings are to be done before the lecture.  All lab assignments must be com
 |    | 10/16 | No Class: Study Session 	| |
 | 9  | 10/21 | Mid-term Test Review | |
 |    | 10/23 | Mid-term Test | |
-| 10 | 10/28 | Military Intervention| Thomson: Chapter 7. Coercion: military intervention in African politics (21pp)<br/>Ali Mazrui. (1977); “Soldiers as Traditionalizers: Military Rule and the Reafricanization of Africa.” Journal of Asian and African Studies 12(1‐4): 236‐58.|
+| 10 | 10/28 | [Military Intervention| Thomson: Chapter 7. Coercion: military intervention in African politics (21pp)<br/>Ali Mazrui. (1977); “Soldiers as Traditionalizers: Military Rule and the Reafricanization of Africa.” Journal of Asian and African Studies 12(1‐4): 236‐58.](http://www.jstor.org/discover/10.2307/2009892?uid=4&sid=21102045623427)|
 |    | 10/30 | Sovereignty | Thomson: Chapter 8. Sovereignty I: external influences on African politics (21pp) |		
 | 11 | 11/04 | Sovereignty II | Thomson: Chapter 9. Sovereignty II: neo-colonialism, structural adjustment and Africa’s political economy (30pp)|
 |    | 11/06 | Authority | Thomson: Chapter 10. Authority: the crises of accumulation, governance and state collapse (27pp)| 
 | 12 | 11/11 | NO CLASS	(Wikipedia Project Research) |  |
 |    | 11/13 | NO CLASS	(Wikipedia Project Research) |  |
-| 13 | 11/18 | Democracy |Thomson: Chapter 11. Democracy: re-legitimising the African state? (32pp)<br/>Nicolas van de Walle (2002); “Africa’s Range of Regimes,” in Journal of Democracy, vol. 13, no.2; pp.66‐80.<br/>Roger Southall, (2000); “The State of Democracy in South Africa,” in Journal of Commonwealth and Comparative Studies, 38(3); pp. 147‐170.|
+| 13 | 11/18 | Democracy |Thomson: Chapter 11. Democracy: re-legitimising the African state? (32pp)<br/>[Nicolas van de Walle (2002); “Africa’s Range of Regimes,” in Journal of Democracy, vol. 13, no.2; pp.66‐80.](http://muse.jhu.edu/journals/jod/summary/v013/13.2van-de-walle.html)<br/>[Roger Southall, (2000); “The State of Democracy in South Africa,” in Journal of Commonwealth and Comparative Studies, 38(3); pp. 147‐170.](http://www.tandfonline.com/doi/abs/10.1080/14662040008447830)|
 |    | 11/20 | Economic Crisis & the Politics of Reform| Nicolas Van de Walle, (2001); African Economies and the Politics of Permanent Crisis, 1979‐1999; Cambridge University Press. pp. 20‐63.<br/>Naomi Chazan et.al. (1999); Politics and Society in Contemporary Africa: Boulder: Lynn Rienner; pp. 325 ‐357. |		
 | 14 | 11/25 | NO CLASS (Thanksgiving) | |
 |    | 11/27 | NO CLASS (Thanksgiving) | |	
