@@ -129,12 +129,12 @@ All readings are to be done before the lecture.  All lab assignments must be com
 |    | 9/11  | The Advent of Colonialism II | [Crawford Young (1998). The African Colonial State and its Political Legacy,” in Donald Rothchild and Naomi Chazan, eds., The Precarious Balance: State and Society in Africa; Boulder: Westview Press; pp. 40‐60.](https://www.dropbox.com/s/ra8wo8fw4ngr3fw/Young-1998.pdf?dl=0) | 
 | 4  | 9/16  | Colonialism & Its Legacies | [Crawford Young. 1994. The African Colonial State in Comparative Perspective; New Haven: Yale University Press; pp. 77-140.](https://www.dropbox.com/s/9dze2mntca14qhp/Young%20-%201994%20-%20Constructing%20Bula%20Matari.pdf?dl=0)|
 |    | 9/18  | Colonialism & Its Legacies II | [Crawford Young. 1994. The African Colonial State in Comparative Perspective; New Haven: Yale University Press; pp. 282‐292, notes 347‐348.](https://www.dropbox.com/s/u1t3y3slgdhc7cc/Young%20-%201994%20-%20The%20Afterlife%20of%20the%20African%20Colonial%20State.pdf?dl=0) <br/>**Map Quiz** | 
-| 5  | 9/23  | Colonialism: Mamdani & the Bifurcated State | Mahmood Mamdani (1996) Citizen & Subject: Contemporary Africa and the Legacy of Late Colonialism. Princeton University Press. [Chapter 1](https://www.dropbox.com/s/xk1hbh5p5r6fz3d/Mamdani%20-%20Chapter%201.pdf?dl=0) & [Chapter 2](https://www.dropbox.com/s/l2szaklf10las3r/Mamdani%20-%20Chapter%202.pdf?dl=0). 3-62<br/>[Sara Berry. (1992). Hegemony on a Shoestring: Indirect Rule and Access to Agricultural Labor. Africa, 62 (3) 327-355.](https://www.dropbox.com/s/ejyhgljg6w2hu3u/Sara%20Berry%20-%20Hegemony%20on%20a%20Shoestring.pdf?dl=0)<br/> |
-|    | 9/25  | African Political Ideologies |Thomson: Chapter 3. Ideology: nationalism, socialism, populism and state capitalism (28pp) | 	
-| 6  | 9/30  | Ethnicity & Religion | Thomson: Chapter 4. Ethnicity and religion: ‘tribes’, gods and political identity (25pp)|
-|    | 10/02 | Class & African Politics |Thomson: Chapter 5. Social class: the search for class politics in Africa (24pp) |		
-| 7  | 10/07 | Political Legitimacy | Thomson: Chapter 6. Legitimacy: neo-patrimonialism, personal rule and the centralization of the African state (22pp)| 
-|    | 10/09 | Guest Lecture (TBC)|| 		
+| 5  | 9/23  | Guest Lecture | The Case of Liberia |
+|    | 9/25  | Colonialism: Mamdani & the Bifurcated State | Mahmood Mamdani (1996) Citizen & Subject: Contemporary Africa and the Legacy of Late Colonialism. Princeton University Press. [Chapter 1](https://www.dropbox.com/s/xk1hbh5p5r6fz3d/Mamdani%20-%20Chapter%201.pdf?dl=0) & [Chapter 2](https://www.dropbox.com/s/l2szaklf10las3r/Mamdani%20-%20Chapter%202.pdf?dl=0). 3-62<br/>[Sara Berry. (1992). Hegemony on a Shoestring: Indirect Rule and Access to Agricultural Labor. Africa, 62 (3) 327-355.](https://www.dropbox.com/s/ejyhgljg6w2hu3u/Sara%20Berry%20-%20Hegemony%20on%20a%20Shoestring.pdf?dl=0)<br/>  | 	
+| 6  | 9/30  | African Political Ideologies |Thomson: Chapter 3. Ideology: nationalism, socialism, populism and state capitalism (28pp)|
+|    | 10/02 | Ethnicity & Religion | Thomson: Chapter 4. Ethnicity and religion: ‘tribes’, gods and political identity (25pp)|		
+| 7  | 10/07 | Class & African Politics |Thomson: Chapter 5. Social class: the search for class politics in Africa (24pp) | 
+|    | 10/09 | Political Legitimacy | Thomson: Chapter 6. Legitimacy: neo-patrimonialism, personal rule and the centralization of the African state (22pp)| 		
 | 8  | 10/14 | No Class: Study Session	| |
 |    | 10/16 | No Class: Study Session 	| |
 | 9  | 10/21 | Mid-term Test Review | |
